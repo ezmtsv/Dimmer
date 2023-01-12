@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_1"
+        android:title="Настройка устройства">
+    </item>
+    <item
+        android:id="@+id/menu_2"
+        android:title="Установка яркости">
+    </item>
+    <item
+        android:id="@+id/menu_3"
+        android:title="О приложении">
+    </item>
+    <item
+        android:id="@+id/menu_4"
+        android:title="Помощь">
+    </item>
+    <item
+        android:id="@+id/menu_6"
+        android:title="Сброс настроек">
+    </item>
+    <item
+        android:id="@+id/menu_5"
+        android:title="Выход">
+    </item>
+    <item
+        android:id = "@+id/menu_7"
+        android:title="Обратная связь">
+
+    </item>
+</menu>
